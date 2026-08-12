@@ -1,0 +1,66 @@
+{
+  "experiment_A": {
+    "description": "Minute-level prediction of % Silica Concentrate",
+    "XGBoost": {
+      "RMSE": 0.7534,
+      "MAE": 0.576,
+      "R2": 0.5692
+    },
+    "LightGBM": {
+      "RMSE": 0.7196,
+      "MAE": 0.5301,
+      "R2": 0.6071
+    },
+    "RandomForest": {
+      "RMSE": 0.7775,
+      "MAE": 0.5995,
+      "R2": 0.5412
+    }
+  },
+  "experiment_B": {
+    "description": "Multi-step ahead prediction \u2014 RMSE by forecast horizon",
+    "horizon_metrics": {
+      "1": {
+        "RMSE": 0.8467,
+        "MAE": 0.6503,
+        "R2": 0.4558
+      },
+      "2": {
+        "RMSE": 0.9435,
+        "MAE": 0.7406,
+        "R2": 0.3242
+      },
+      "4": {
+        "RMSE": 1.0809,
+        "MAE": 0.8809,
+        "R2": 0.1133
+      },
+      "8": {
+        "RMSE": 1.15,
+        "MAE": 0.9505,
+        "R2": -0.0033
+      },
+      "12": {
+        "RMSE": 1.1465,
+        "MAE": 0.9434,
+        "R2": 0.0017
+      }
+    }
+  },
+  "experiment_C": {
+    "description": "Prediction with vs without % Iron Concentrate column",
+    "with_iron": {
+      "RMSE": 0.7534,
+      "MAE": 0.576,
+      "R2": 0.5692
+    },
+    "without_iron": {
+      "RMSE": 0.7548,
+      "MAE": 0.5781,
+      "R2": 0.5677
+    },
+    "rmse_diff": 0.0014,
+    "r2_diff": 0.0015,
+    "verdict": "degraded"
+  }
+}

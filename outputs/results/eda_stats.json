@@ -1,0 +1,26 @@
+{
+  "shape": [
+    737453,
+    23
+  ],
+  "date_start": "2017-03-10 01:00:00",
+  "date_end": "2017-09-09 23:00:00",
+  "n_days": 183,
+  "target_mean": 2.3268,
+  "target_std": 1.1256,
+  "target_min": 0.6,
+  "target_max": 5.53,
+  "iron_silica_corr": -0.8012,
+  "top_correlations": {
+    "% Iron Concentrate": -0.8012,
+    "Flotation Column 01 Air Flow": -0.2209,
+    "Flotation Column 03 Air Flow": -0.2205,
+    "Flotation Column 05 Level": -0.1908,
+    "Flotation Column 04 Level": -0.1794,
+    "Flotation Column 02 Air Flow": -0.1716,
+    "Amina Flow": 0.1709,
+    "Flotation Column 07 Level": -0.1656,
+    "Ore Pulp pH": -0.1515,
+    "Flotation Column 06 Level": -0.122
+  }
+}
