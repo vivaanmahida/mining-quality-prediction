@@ -1,0 +1,36 @@
+# 📹 Online Internship Video Testimonial Script
+# Format based on: D:\Internship\Uniconverge\Online internship testimonial format.mov
+# Student: Vivaan Mahida
+# Project: Quality Prediction in a Mining Process
+# Program: 6-Week Industrial Internship in Data Science & Machine Learning (upskill Campus & UniConverge Technologies)
+
+--------------------------------------------------------------------------------
+OPTION 1: NATURAL SPEAKING SCRIPT (Recommended for Recording Video)
+--------------------------------------------------------------------------------
+
+"Hello everyone! My name is Vivaan Mahida, and I have recently completed a 6-week project-based Industrial Internship in Data Science & Machine Learning from upskill Campus in collaboration with UniConverge Technologies (UCT). 
+
+During this internship, I worked on a real-world industrial project titled 'Quality Prediction in a Mining Process'. My main objective was to build Machine Learning models to predict silica impurity (% Silica Concentrate) in an iron ore flotation plant using real IIoT sensor data. Through this project, I engineered time-series lag features, trained advanced gradient boosting models like LightGBM and XGBoost achieving an R² of 0.607, validated a 1-hour early-warning forecast horizon, and developed an interactive Plotly dashboard.
+
+This program is truly more than just an online internship because I gained real practical knowledge, enterprise-level coding experience, and hands-on exposure to industrial IoT problem-solving. 
+
+I would like to express my heartfelt thanks to upskill Campus, The IoT Academy, and UniConverge Technologies for this incredible opportunity and their constant support throughout the journey. If you are looking to enhance your practical skills, I highly recommend signing up on their website upskillcampus.com. 
+
+Thank you!"
+
+
+--------------------------------------------------------------------------------
+OPTION 2: BULLET & SECTION BREAKDOWN (For Script Reading / Teleprompter)
+--------------------------------------------------------------------------------
+
+[00:00 - 00:05] INTRODUCTION:
+"Hello everyone! My name is Vivaan Mahida, and I have recently completed a 6-week project-based Industrial Internship in Data Science and Machine Learning from upskill Campus in collaboration with UniConverge Technologies."
+
+[00:05 - 00:18] PROJECT DETAILS & IMPLEMENTATION:
+"During this internship, I worked on an industrial project titled 'Quality Prediction in a Mining Process'. I built machine learning models using LightGBM and XGBoost to predict % Silica Concentrate impurity in an iron ore flotation plant using real IIoT sensor data, achieving a minute-level predictive R² of 0.607 and building an interactive Plotly dashboard."
+
+[00:18 - 00:23] LEARNING EXPERIENCE & VALUE:
+"It was more than just an online internship because I gained hands-on practical experience, time-series feature engineering skills, and real industrial problem-solving exposure."
+
+[00:23 - 00:30] ACKNOWLEDGMENTS & CALL TO ACTION:
+"I want to thank upskill Campus, The IoT Academy, and UniConverge Technologies for this great opportunity and their guidance. I encourage everyone to check out their website upskillcampus.com. Thank you!"
